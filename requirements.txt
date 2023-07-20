@@ -1,0 +1,10 @@
+imageio==2.11.1
+matplotlib==3.5.0
+matplotlib-inline
+opencv-contrib-python==4.7.0.68
+Pillow==8.4.0
+pyperclip==1.8.2
+pyproject-toml==0.0.10
+scikit-image==0.18.3
+scipy==1.1.0
+streamlit==1.23.1
